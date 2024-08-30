@@ -1,0 +1,14 @@
+node_modules
+
+# JetBrains Rider
+.idea/
+
+# dotenv environment variables file
+.env
+
+# Ignore run folder in some of specific editors
+.run 
+
+test/coverage
+
+dist
